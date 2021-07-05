@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: black;
+
+}
+
+h1 {
+  color: #00B7FF;
+}
+
+.impar{
+  border: 1px solid green;
+}
+
+.par{
+  border: 1px solid red;
+}
